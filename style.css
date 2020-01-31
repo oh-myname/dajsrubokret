@@ -1,0 +1,13 @@
+
+$font-text: 'Montserrat', sans-serif;
+$font-header: 'Oswald', sans-serif;
+
+h2 {
+  font-family: $font-header;
+  text-align: center;
+}
+
+p {
+  font-family: $font-text;
+  text-align: center;
+}
